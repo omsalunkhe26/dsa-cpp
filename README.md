@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Binary Search
@@ -27,4 +28,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0009-palindrome-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
