@@ -39,4 +39,8 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0088-merge-sorted-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/omsalunkhe26/dsa-cpp/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
