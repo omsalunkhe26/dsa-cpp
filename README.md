@@ -37,6 +37,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0088-merge-sorted-array/) | Easy |
+| [0344-reverse-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/omsalunkhe26/dsa-cpp/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
