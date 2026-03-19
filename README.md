@@ -39,6 +39,7 @@
 | [0031-next-permutation](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -60,5 +61,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
