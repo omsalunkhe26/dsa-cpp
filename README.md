@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0567-permutation-in-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -41,6 +43,7 @@
 | [0088-merge-sorted-array](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +66,7 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/omsalunkhe26/dsa-cpp/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
