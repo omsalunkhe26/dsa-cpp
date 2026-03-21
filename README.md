@@ -42,6 +42,7 @@
 | [0075-sort-colors](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
@@ -65,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/omsalunkhe26/dsa-cpp/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
