@@ -34,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0009-palindrome-number/) | Easy |
+| [0258-add-digits](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0412-fizz-buzz/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/omsalunkhe26/dsa-cpp/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Two Pointers
@@ -82,6 +83,11 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0412-fizz-buzz/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/omsalunkhe26/dsa-cpp/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
