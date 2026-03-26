@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0258-add-digits/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0412-fizz-buzz/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/omsalunkhe26/dsa-cpp/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Two Pointers
@@ -56,6 +57,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/omsalunkhe26/dsa-cpp/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
