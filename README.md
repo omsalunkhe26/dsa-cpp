@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0904-fruit-into-baskets/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/omsalunkhe26/dsa-cpp/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Binary Search
@@ -25,9 +26,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/omsalunkhe26/dsa-cpp/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Math
